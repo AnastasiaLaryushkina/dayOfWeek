@@ -17,4 +17,5 @@ public enum Weekday {
     public String getMessage() {
         return message;
     }
+
 }
