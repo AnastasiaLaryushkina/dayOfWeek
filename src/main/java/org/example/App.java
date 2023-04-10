@@ -6,7 +6,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.print("Введите день недели на английском: ");
+        System.out.print("Введите день недели на английском языке: ");
         Scanner scanner = new Scanner (System.in);
         String day = scanner.nextLine();
         try {
