@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebde0e0b-2ac5-4da2-8127-5e8263db62ea" name="Changes" comment="Задача Maven" />
+    <list default="true" id="ebde0e0b-2ac5-4da2-8127-5e8263db62ea" name="Changes" comment="Задача Maven new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,11 +82,33 @@
       <option name="project" value="LOCAL" />
       <updated>1681131167336</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Задача Maven">
+      <created>1681131231663</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681131231663</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Задача Maven">
+      <created>1681131436038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681131436038</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Задача Maven new">
+      <created>1681132584965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681132584965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Задача Maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задача Maven" />
+    <MESSAGE value="Задача Maven new" />
+    <option name="LAST_COMMIT_MESSAGE" value="Задача Maven new" />
   </component>
 </project>
